@@ -7,7 +7,7 @@ function App() {
     <div className="app">
       <h1> Let's Build this StockMe Application!</h1>
 
-      <Header/>
+      <Header />
 
       {/*App Body*/}
         {/*Sidebar*/}
